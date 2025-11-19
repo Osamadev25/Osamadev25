@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00CFFF,FF5733,8CFAA3,149DA5&center=true&width=700&lines=I+build+practical+and+structured+solutions;I+develop+apps+using+React+and+Flutter;I+focus+on+clean+code+and+good+architecture;Skilled+in+data+processing+and+analysis" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF,FF5733,8CFAA3,149DA5&center=true&width=700&lines=I+build+practical+and+structured+solutions;I+develop+apps+using+React+and+Flutter;I+focus+on+clean+code+and+good+architecture;Skilled+in+data+processing+and+analysis" alt="Typing SVG" />
 </p>
 
 ---
