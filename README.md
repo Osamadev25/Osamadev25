@@ -1,60 +1,95 @@
 # Osama Ahmed
 
-I build practical projects  
-I use clear tools  
-I develop solutions step by step  
-I focus on structure and quality  
+## 👋 About Me
+
+<p align="left">
+  I <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00CFFF,FF5733,8CFAA3,149DA5&center=false&width=500&lines=build+practical+projects;use+clear+tools;develop+solutions+step+by+step;focus+on+structure+and+quality" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🛠️ Tools & Software
 
 <p>
+  <!-- IDEs -->
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+
+  <!-- Browsers -->
   <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-  
+
+  <!-- Version Control -->
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a><a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-  <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+
+  <!-- Databases & Spreadsheets -->
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="DBeaver" src="https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
+
+  <!-- APIs & Testing -->
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-  
+
+  <!-- Graphics & Design -->
+  <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+  <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
+
+  <!-- Communication & Productivity -->
+  <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+
+  <!-- Multimedia -->
+  <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+  <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+
+  <!-- Dev & Build Tools -->
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white"></a>
+  <a href="#"><img alt="ESBuild" src="https://img.shields.io/badge/ESBuild-000000.svg?logo=esbuild&logoColor=white"></a>
+  <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
+  <a href="#"><img alt="Virtual CloneDrive" src="https://img.shields.io/badge/Virtual%20CloneDrive-0052CC.svg?logo=virtualbox&logoColor=white"></a>
 </p>
 
 ---
 
 ## 💻 Programming Languages
 
-- Python
-- JavaScript
-- HTML
-- CSS
-- Dart
-- C++
-- C#
+<p>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"></a>
+</p>
 
 ---
 
-## 🏗️ Frameworks
+## 🏗️ Frameworks & Libraries
 
-- React
-- Next
-- Django
-- Flutter
-- Streamlit
+<p>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
+  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
+  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"></a>
+</p>
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases & Data Formats
 
-- SQLite
-- MySQL
-- PostgreSQL
-- CSV
-- Excel
+<p>
+  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="CSV" src="https://img.shields.io/badge/CSV-FF6C37?logo=apache&logoColor=white"></a>
+  <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+</p>
 
 ---
 
@@ -141,6 +176,5 @@ I focus on structure and quality
 
 ## 📬 Contact
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
-- LinkedIn: [YourProfile](https://www.linkedin.com/in/YourProfile)  
-- Email: your.email@example.com
+- GitHub:(https://github.com/Osamadev25)  
+- Email: osamadev25@gmail.com
