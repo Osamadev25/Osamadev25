@@ -94,21 +94,38 @@
 ---
 
 ## ⚙️ Skills
+## ⚙️ Skills
 
-- NLP (Natural Language Processing)  
-- Image processing  
-- Data analysis and cleaning  
-- Detecting duplicates and errors  
-- Interactive UI development  
-- Project structuring  
-- API design  
-- JSON handling  
-- Networking basics  
-- Client/server apps (C# multicast)  
-- Environment setup and debugging  
-- npm troubleshooting  
-- Cross-environment project deployment  
-- Basic machine learning models  
+<p align="left">
+  <!-- Data & Analysis -->
+  <b>💾 Data & Analysis</b><br>
+  <a href="#"><img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-4D96FF?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Data Cleaning" src="https://img.shields.io/badge/Data%20Cleaning-FDCA40?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Detecting Duplicates" src="https://img.shields.io/badge/Duplicates%20Detection-F8961E?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-BF00FF?logo=python&logoColor=white"></a>
+  <br><br>
+
+  <!-- UI & Development -->
+  <b>🎨 UI & Development</b><br>
+  <a href="#"><img alt="Interactive UI" src="https://img.shields.io/badge/Interactive%20UI-FF595E?logo=flutter&logoColor=white"></a>
+  <a href="#"><img alt="Project Structuring" src="https://img.shields.io/badge/Project%20Structuring-6A4C93?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="API Design" src="https://img.shields.io/badge/API%20Design-00BFA6?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="JSON Handling" src="https://img.shields.io/badge/JSON%20Handling-FC5185?logo=json&logoColor=white"></a>
+  <br><br>
+
+  <!-- Networking & Deployment -->
+  <b>🌐 Networking & Deployment</b><br>
+  <a href="#"><img alt="Networking Basics" src="https://img.shields.io/badge/Networking-B0F2B7?logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Client/Server Apps" src="https://img.shields.io/badge/Client/Server%20Apps-CF6FFF?logo=c-sharp&logoColor=white"></a>
+  <a href="#"><img alt="Environment Setup" src="https://img.shields.io/badge/Environment%20Setup-FF9F1C?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="npm Troubleshooting" src="https://img.shields.io/badge/npm-Troubleshooting-CB3837?logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="Cross-env Deployment" src="https://img.shields.io/badge/Cross-env%20Deployment-00CFFF?logo=git&logoColor=white"></a>
+  <br><br>
+
+  <!-- AI & NLP -->
+  <b>🤖 AI & NLP</b><br>
+  <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-FF6B6B?logo=python&logoColor=white"></a>
+</p>
 
 ---
 
