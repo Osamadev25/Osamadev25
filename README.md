@@ -19,6 +19,7 @@ The primary set of tools and technologies I rely on for my projects.
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"></a>
@@ -126,10 +127,10 @@ IDEs, Version Control, Build Tools, and other essential software for my workflow
 * **Simplification:** Simplify complex ideas before coding implementation.
 * **Iteration:** Continuously enhance each project version gradually.
 
----
+
 <details> 
   <summary><h2>📊 GitHub Stats & Activity</h2></summary>
-### 🔥 GitHub Streak Overview
+<h3> 🔥 GitHub Streak Overview </h3>
 <p align="center">
     <img title="GitHub Streak Stats" alt="GitHub streak" src="https://github-readme-streak-stats.vercel.app/?user=Osamadev25&theme=gotham&hide_border=false&ring_color=00CFFF&fire=FF5733"/>
 </p>
@@ -150,7 +151,6 @@ IDEs, Version Control, Build Tools, and other essential software for my workflow
 * 📝 Created pull request [#2](https://github.com/Osamadev25/YourRepo/pull/2) in **Osamadev25/YourProject**
 </details>
 
----
 
 ## 📬 Get In Touch
 
